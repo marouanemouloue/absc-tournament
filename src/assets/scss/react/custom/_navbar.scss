@@ -1,0 +1,8 @@
+.navbar .collapsing .navbar-toggler{
+  pointer-events: none;
+}
+@media only screen and (max-width: 767px) {
+.navbar-toggler{
+  margin-left: 40%;
+}
+}
